@@ -8,7 +8,7 @@ Pas de contexte professionnel ici, il s'agit de valider les compétences mises e
 
 Un modèle qui fonctionne, dont les hyperparamètres ont été correctement optimisés grâce à un gridsearch et une cross-validation
 
-## files
+# files
 
 cars_price.ipynb est le fichier contenant l'import du dataset et la mise en place de l'algorithme prédisant le prix des voitures.
 
